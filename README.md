@@ -93,3 +93,17 @@ A simple Streamlit dashboard was built to explore:
 This analysis shows that trader behavior changes with market sentiment, especially in terms of activity and risk-taking. However, higher activity and exposure do not lead to better results.
 
 A balanced and disciplined approach performs better than aggressive or reactive trading.
+
+## Key Visualizations
+
+### PnL Distribution
+![PnL](outputs/pnl_distribution.png)
+
+### Trading Activity
+![Trades](outputs/trading_activity.png)
+
+### Risk vs PnL
+![Risk](outputs/Risk_vs_PnL.png)
+
+### Trader Clusters
+![Clusters](outputs/clusters.png)
