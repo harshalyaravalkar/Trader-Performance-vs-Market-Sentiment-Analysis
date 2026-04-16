@@ -100,7 +100,7 @@ A balanced and disciplined approach performs better than aggressive or reactive 
 ![PnL](outputs/pnl_distribution.png)
 
 ### Trading Activity
-![Trades](outputs/trading_activity.png)
+![Trades](outputs/Trading_activity.png)
 
 ### Risk vs PnL
 ![Risk](outputs/Risk_vs_PnL.png)
