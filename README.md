@@ -84,7 +84,7 @@ A simple Streamlit dashboard was built to explore:
    pip install pandas numpy matplotlib seaborn scikit-learn streamlit  
 3. Run the notebook for analysis  
 4. Launch dashboard:
-   streamlit run app.py  
+   streamlit run my_app.py  
 
 ---
 
